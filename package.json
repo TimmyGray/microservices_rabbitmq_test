@@ -3,8 +3,8 @@
   "version": "0.2.0",
   "description": "Test app with two microservices and rabbitmq",
   "scripts": {
-    "m1": "nodemon m1_service/m1.service.js",
-    "m2": "nodemon m2_service/m2.service.js"
+    "m1": "node m1_service/m1.service.js",
+    "m2": "node m2_service/m2.service.js"
   },
   "author": {
     "name": "Timmy"

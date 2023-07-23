@@ -31,6 +31,8 @@
     <Content Include=".env">
       <SubType>Code</SubType>
     </Content>
+    <Content Include=".gitattributes" />
+    <Content Include=".gitignore" />
     <Content Include="logger\logger.js">
       <SubType>Code</SubType>
     </Content>
@@ -40,6 +42,7 @@
     <Content Include="logger\logger.m2.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="package-lock.json" />
     <Content Include="rabbitconnection.js" />
     <Content Include="m1_service\m1.service.js">
       <SubType>Code</SubType>
